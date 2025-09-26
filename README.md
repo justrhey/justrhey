@@ -1,4 +1,5 @@
-<img src="https://github.com/justrhey/justrhey/blob/main/justrhey/assets/firts.png" width="100%">
+<img src="https://github.com/justrhey/justrhey/blob/main/assets/firts.png" width="100%">
+
 
 
 ### Hi there 👋, I’m Justine Rhey
