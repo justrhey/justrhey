@@ -1,4 +1,4 @@
-<img src="https://github.com/justrhey/justrhey/blob/main/assets/firts.png" width="100%" height="450">
+<img src="https://github.com/justrhey/justrhey/blob/main/assets/first.png" width="100%">
 
 
 
