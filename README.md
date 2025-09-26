@@ -15,10 +15,10 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=justrhey&show_icons=true&theme=nord)
 
+<img src="https://github.com/justrhey/justrhey/blob/main/assets/second.png" width="100%">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justrhey&layout=donut&theme=nord)
 
 ---
-<img src="https://github.com/justrhey/justrhey/blob/main/assets/second.png" width="100%">
 
 ### 🛠️ Languages & Tools
 
