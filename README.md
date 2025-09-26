@@ -6,8 +6,8 @@
 ### Hi there 👋, I’m Justine Rhey
 
 - 📍 From: Metro Manila
-- 💻 On the Clock: Programmer
-- 🎯 Off the Clock: Skateboarding
+- 💻 On the Clock: BS-IT Student
+- 🎯 Off the Clock: Programmer
 
 ---
 
